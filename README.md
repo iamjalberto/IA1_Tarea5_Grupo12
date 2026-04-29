@@ -6,9 +6,19 @@
 
 ## Integrantes
 
+Grupo individual (Grupo 12).
+
 | Nombre | Carne |
 |--------|-------|
 | Jose Alberto Pineda Calderon | 201346084 |
+
+## Que hizo cada integrante
+
+El grupo esta conformado por una sola persona, quien realizo la totalidad de la tarea.
+
+| Nombre | Actividades realizadas |
+|--------|------------------------|
+| Jose Alberto Pineda Calderon (201346084) | Realizo la tarea completa de forma individual: creo el bot de Telegram con BotFather, implemento los cuatro comandos requeridos (/hola, /hora, /contacto, /proyecto), configuro la zona horaria de Guatemala (UTC-6), proteccion del token con archivo .env, y subio el codigo al repositorio publico en GitHub. |
 
 ## Descripcion
 
