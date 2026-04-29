@@ -44,7 +44,7 @@ async def contacto(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Muestra la informacion de contacto del grupo."""
     await update.message.reply_text(
         "Integrantes del Grupo 12:\n\n"
-        "Jose Alberto Pineda Calderon\n"
+        "Jose Alberto Alarcon Chigua\n"
         "Carne: 201346084\n\n"
         "Curso: Inteligencia Artificial 1\n"
         "Universidad San Carlos de Guatemala\n"
